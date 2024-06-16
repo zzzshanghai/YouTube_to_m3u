@@ -44,7 +44,7 @@ with open('../youtube_channel_info.txt') as f:
         if not line.startswith('https:'):
             line = line.split('|')
             ch_name = line[0].strip()
-            print(f'\n#{ch_name},',end='')
+            print(f'\n{ch_name},',end='')
         else:
             grab(line)
             
