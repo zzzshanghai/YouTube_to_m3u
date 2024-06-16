@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-三立iNEWS | Youtube频道 |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
+东森新闻 | Youtube频道 |
+https://www.youtube.com/watch?v=LuQ4S-i5zoE
